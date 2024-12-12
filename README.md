@@ -25,3 +25,4 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ![image alt](https://github.com/Bashir666/customers/blob/cdec29ab6d7f9e5b07f0e907dc97a43254bfe75d/Screenshot%202024-12-12%20195455.png)
 ![image alt](https://github.com/Bashir666/customers/blob/580d4464c95d6f3de000074db94ab09baff850a7/Screenshot%202024-12-12%20195641.png)
 ![image alt](https://github.com/Bashir666/customers/blob/a9dd06835bddb96ed8541ac1f7084d4ceaaa2c88/Screenshot%202024-12-12%20195709.png)
+![image alt](https://github.com/Bashir666/customers/blob/ad62e4b6b0a55e9bcf56e54153522024f6ccbee7/Screenshot%202024-12-12%20195738.png)
